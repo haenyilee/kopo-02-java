@@ -23,7 +23,25 @@ public class HomeworkMain01 {
 		int num3 = sc.nextInt();
 	
 		sc.close();
+
+
+
+
+if(num1 > num2) {
+if(num2 > num3) {
+
+} else {
+
+System.out.println("num1 num3 num2");
+
+}
+
+} else { // num1 <= num2
+}
+
+}
 		
+
 		
 
 	}
